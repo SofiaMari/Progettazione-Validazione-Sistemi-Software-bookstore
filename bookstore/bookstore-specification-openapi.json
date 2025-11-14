@@ -233,11 +233,6 @@
             "type": "number",
             "format": "float",
             "example": 16.5
-          },
-          "copiesSold": {
-            "description": "The number of copies sold of the book.",
-            "type": "integer",
-            "example": 10
           }
         },
         "type": "object"
